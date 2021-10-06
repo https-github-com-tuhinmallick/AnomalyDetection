@@ -2,7 +2,7 @@
 
 # Anomaly Detection using pycaret
 
-`Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`
+`Outlier Detection (https://en.wikipedia.org/wiki/Anomaly_detection)`
 (also known as *Anomaly Detection*) is an exciting yet challenging field,
 which aims to identify outlying objects that are deviant from the general data distribution.
 Outlier detection has been proven critical in many fields, such as credit card
